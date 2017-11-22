@@ -1,0 +1,78 @@
+
+
+/*http://www.minecraftpixelarttemplates.com/2012/11/goku.html*/
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div {
+  width: 2.63%;
+  height: 2%;
+}
+
+.black {
+  background-color: #000000;
+}
+
+.bl {
+  background-color: #000000;
+}
+
+.darkGrey {
+  background-color: #414141;
+}
+
+.lightGrey {
+  background-color: #9B9B9B;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
+
+.skin {
+  background-color: #F8B17F;
+}
+
+.lg {
+  background-color: #9B9B9B;
+}
+
+.eye {
+  background-color: #282828;
+}
+
+.do {
+  background-color: #AD4A03;
+}
+
+.lo {
+  background-color: #F66A07;
+}
+
+.dkb {
+  background-color: #0C007D;
+}
+
+.lib {
+  background-color: #3800FE;
+}
+
+.r {
+  background-color: #F50D07;
+}
+
+.ye {
+  background-color: #F7B60A;
+}
